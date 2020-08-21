@@ -1,5 +1,7 @@
 # MLTesting
 
+Collection of scirpts for testing ML techniques.
+
 ## Setup
 
 Install packages form the `requirements.txt` for packages available from PyPi
@@ -7,7 +9,7 @@ Install packages form the `requirements.txt` for packages available from PyPi
 Intialize submodules with `git submodule update --init` and install packages with:
 
 ```bash
-pip install -e lib/ConfigReader/
+pip install -e lib/PlotlyWrapper/
 ```
 
 ## Some literature
